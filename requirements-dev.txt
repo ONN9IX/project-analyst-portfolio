@@ -1,0 +1,6 @@
+# Optional dependencies for generating DOCX/PDF previews and figures.
+# Core data scripts, SQL and Python unittest use only the standard library.
+matplotlib>=3.8
+python-docx>=1.1
+# build_excel.py and build_evm_excel.py additionally require artifact_tool,
+# which may not be available in a standard local pip environment.

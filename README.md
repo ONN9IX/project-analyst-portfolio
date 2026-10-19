@@ -41,6 +41,16 @@
 - [`scripts/`](scripts/) и [`tests/`](tests/) — воспроизводимый расчёт и автоматические проверки.
 - [`resume/`](resume/) — резюме Junior Project Analyst и PMO Analyst (публичные версии с контактом через GitHub).
 
+## Предпросмотр Excel
+
+GitHub предлагает скачать Excel и Word; для просмотра резюме в браузере используй PDF выше. Ниже доступны изображения основных листов Excel.
+
+![Основные показатели Excel](reports/DASHBOARD_PREVIEW.png)
+
+![Учебная модель EVM](reports/EVM_PREVIEW.png)
+
+[Результаты проверки материалов](docs/VERIFICATION.md).
+
 ## Визуализация активности
 
 ![Ежедневные события GitHub Issues и PR](reports/ACTIVITY_TREND.png)

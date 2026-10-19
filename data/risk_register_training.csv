@@ -1,0 +1,6 @@
+risk_id,risk,probability_1_5,impact_1_5,assessment_status,source_issue,url,mitigation_proposal
+R-01,Готовность процессов персональных данных,3,5,Экспертная учебная оценка,223,https://github.com/ONN9IX/smart-garden/issues/223,Провести security и privacy go/no-go перед пилотом
+R-02,Недостаточная проверка пилотных сценариев,3,4,Экспертная учебная оценка,187,https://github.com/ONN9IX/smart-garden/issues/187,Утвердить критерии синтетического пилота
+R-03,Расширение объёма работ универсальными профилями,4,4,Экспертная учебная оценка,162,https://github.com/ONN9IX/smart-garden/issues/162,Разделить MVP и будущую архитектуру
+R-04,Недоработанные мобильные сценарии,3,3,Экспертная учебная оценка,189,https://github.com/ONN9IX/smart-garden/issues/189,Провести UX проверку устройств и PWA
+R-05,Риски разрешений при автоматизации доставки,3,5,Экспертная учебная оценка,204,https://github.com/ONN9IX/smart-garden/issues/204,Проверить approval gate и права публикации

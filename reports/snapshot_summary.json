@@ -1,0 +1,15 @@
+{
+  "snapshot_date": "2026-10-13",
+  "issues_total": 137,
+  "issues_open": 19,
+  "issues_closed": 118,
+  "issues_closed_share": 0.8613,
+  "prs_total": 95,
+  "prs_merged": 88,
+  "prs_open": 5,
+  "prs_closed_without_merge": 2,
+  "prs_merged_share": 0.9263,
+  "issues_assignee_blank": 50,
+  "first_issue_created": "2026-09-23",
+  "last_issue_created": "2026-10-12"
+}
