@@ -1,0 +1,9 @@
+month,planned_deliverables,accepted_deliverables,deferred_deliverables,planned_hours,actual_hours,source_type
+2026-02,6,5,1,64,71,synthetic_scenario
+2026-03,8,7,1,86,88,synthetic_scenario
+2026-04,9,9,0,94,90,synthetic_scenario
+2026-05,8,6,2,88,101,synthetic_scenario
+2026-06,10,9,1,105,110,synthetic_scenario
+2026-07,9,8,1,96,102,synthetic_scenario
+2026-08,8,8,0,88,87,synthetic_scenario
+2026-09,7,7,0,75,73,synthetic_scenario
