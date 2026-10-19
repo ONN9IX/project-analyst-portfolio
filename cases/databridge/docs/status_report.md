@@ -38,7 +38,7 @@
 
 ## Что подтверждается реальными артефактами
 
-Отдельный [аналитический проект по e-commerce CSV](https://github.com/ONN9IX/analyst-portfolio/tree/main/06_final_project) демонстрирует расчёты KPI и ограничений. [Project Dashboard по Smart Garden](../../Project%20Dashboard.xlsx) использует реальные публичные данные GitHub, но не является частью этой вымышленной восьмимесячной истории.
+Отдельный [аналитический проект по e-commerce CSV](https://github.com/ONN9IX/analyst-portfolio/tree/main/06_final_project) демонстрирует расчёты KPI и ограничений. [Project Dashboard по Smart Garden](../../../Project%20Dashboard.xlsx) использует реальные публичные данные GitHub, но не является частью этой вымышленной восьмимесячной истории.
 
 ## Следующий шаг учебного сценария
 
