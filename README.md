@@ -6,9 +6,9 @@
 
 ## Единый бизнес-кейс: DataBridge Solutions
 
-[**DataBridge Project Operations**](cases/databridge/README.md) — учебный восьмимесячный сценарий для условной IT-компании: требования, изменения, риски, смоделированный план-факт работ, SQL и проверочный скрипт. Его аналитическая часть — [Retail Analytics](https://github.com/ONN9IX/analyst-portfolio/tree/main/cases/databridge) в другом существующем портфолио.
+[**DataBridge Project Operations**](cases/databridge/README.md) — восьмимесячная демонстрационная модель работы IT-интегратора: требования, изменения, риски, план-факт, SQL и проверки. Его аналитическая часть — [Retail Analytics](https://github.com/ONN9IX/analyst-portfolio/tree/main/cases/databridge) в другом существующем портфолио.
 
-**Это не подтверждённое трудоустройство:** компания и февраль–сентябрь 2026 года вымышлены. Отдельно ниже расположен реальный кейс по истории GitHub Smart Garden; эти истории не смешиваются.
+**DataBridge — моделируемая компания и хронология, не трудовой стаж.** Ниже — самостоятельный анализ фактической истории GitHub Smart Garden.
 
 ## Задача
 
